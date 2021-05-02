@@ -20,7 +20,7 @@
     "spotifydl",
     "spotify-downloader"
   ],
-  "author": "Swapnil Soni",
+  "author": "radiation",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.21.1",
